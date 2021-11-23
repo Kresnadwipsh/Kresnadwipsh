@@ -15,7 +15,7 @@ I'm **Kresna Dwipayana Sindudharma Hidayat**, interested in data field, a long l
 
 <img align="left" alt="Kresna's Gmail" width="40px" src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"/> <a href="mailto:kresnadwipsh@gmail.com">Gmail</a>
 
-<img align="left" alt="Kresna's Tableau" width="40px" src="https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png"/> <a href="https://public.tableau.com/app/profile/kresna.dwipayana">Tableau</a>
+<img align="left" alt="Kresna's Tableau" width="40px" src="https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png"/> <a href="https://public.tableau.com/app/profile/kresnadwipsh">Tableau</a>
  
 ### Used Programming Language and Tools :
 
