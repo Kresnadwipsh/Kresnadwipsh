@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
 
-I'm **Kresna Dwipayana Sindudharma Hidayat**, interested in data field, a long live learner. Looking for opportunities to improve my skill and apply my interest. Please check my portfolio's in my pinned repository, thank you :)
+I'm **Kresna Dwipayana Sindudharma Hidayat**, interested in data field, a long live learner. Please check my portfolio's in my pinned repository, thank you :)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kresnadwipsh&color=brightgreen&style=plastic" /> </p>
