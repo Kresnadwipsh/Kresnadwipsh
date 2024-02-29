@@ -11,6 +11,7 @@ I'm **Kresna Dwipayana Sindudharma Hidayat**, interested in data field, a long l
 
 ### 📫 Contact me at :
 
+<img align="left" alt="Kresna's LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png"/> <a href="https://public.tableau.com/app/profile/kresnadwipsh">LinkedIn</a>
 
 <img align="left" alt="Kresna's Gmail" width="40px" src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"/> <a href="mailto:kresnadwipsh@gmail.com">Gmail</a>
 
